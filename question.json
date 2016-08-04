@@ -32,6 +32,11 @@
             "id": "6",
             "name": "DevOps",
             "votes": 0
+        },
+        {
+            "id": "7",
+            "name": "I am bored !",
+            "votes": 0
         }
     ]
 }
